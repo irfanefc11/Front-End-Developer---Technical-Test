@@ -1,0 +1,19 @@
+
+body{
+  background-color: black;
+}
+.grey.lighten-2 {
+  background-color: #e0e0e0 !important;
+  margin-top: 71px;
+}
+
+.tabs .tab a.active {
+  background-color: #673AB7;
+  color: #ffff!important;
+}
+
+.tabs .tab a.active {
+  background-color: #673AB7!important;
+}
+input:not([type]):focus:not([readonly])+label, input [type=text]:not(.browser-default):fucos:not([type])
+  border-bottom 1px solid #673ab7;
